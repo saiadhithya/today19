@@ -1,1 +1,2 @@
-# today19
+this was a sample reposittory 
+created for practice 
